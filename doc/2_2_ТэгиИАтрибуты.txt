@@ -100,6 +100,11 @@ type - используется в полях ввода  <input> для ука�
 
 <input type="password" name="password">
 
+Можно одновременно указать несколько атрибутов
+Зададим уникальный идентификатор, класс и стиль для текста зеленого цвета .
+
+<a id="homePageLink" class="link" href="https://stepik.org" style="color: green">Перейти на Stepik</a>
+
 
 
 
